@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlifPapp&color=008042&label=Visitors" alt="Visitors">
-    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AlifPapp" alt="Profile Stars">
-    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AlifPapp" alt="Profile Forks">
+    <img src="https://komarev.com/ghpvc/?username=AlifPapp&style=for-the-badge&label=Visitors" alt="Visitors">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AlifPapp" alt="Profile Stars">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AlifPapp" alt="Profile Forks">
 </p>
 
 ---
