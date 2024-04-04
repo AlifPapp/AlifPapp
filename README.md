@@ -6,15 +6,6 @@
 
 ---
 
-## About Me:
-・<a href="https://alifpapp.me">alifpapp.me</a> 
-<br>・**20 years old, I like to fiddle around with code at times.**
-<br>・**Hungarian, Indonesian, born in Australia.**
-
-<a href="https://alifpapp.me/discord" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-1/377418029706772480.png" alt="discord_profile" align="right"/>
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alifpapp&langs_count=8&count_private=true&layout=compact&hide_border=true&theme=github_dark"/>
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alifpapp&langs_count=8&count_private=true&layout=compact&hide_border=true"/>
